@@ -2,7 +2,7 @@
 ##
 𝙴𝚞 𝚖𝚎 𝚌𝚑𝚊𝚖𝚘 𝚆𝚎𝚕𝚕𝚎𝚗 𝚎 𝚎𝚜𝚝𝚘𝚞 𝚊𝚚𝚞𝚒 𝚙𝚊𝚛𝚊 𝚕𝚑𝚎 𝚖𝚘𝚜𝚝𝚛𝚊𝚛 𝚞𝚖 𝚙𝚘𝚞𝚌𝚘 𝚍𝚊 𝚖𝚒𝚗𝚑𝚊 𝚓𝚘𝚛𝚗𝚊𝚍𝚊 𝚌𝚘𝚖𝚘 𝚙𝚊𝚍𝚊𝚠𝚊𝚗.
 ##
-- 🖋 inicio da minha jornada estudos sobre programação: Abril/15.
+- 🖋 inicio dos meus estudos na programação: Abril/15.
 - 👨‍⚕️ Tu és eternamente responsável por aquilo que cativas ! - O Pequeno príncipe.
 
 <div align="center">
